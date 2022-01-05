@@ -1,0 +1,133 @@
+body{
+    margin: 0;
+    padding: 0;
+}
+.talha-main-div{
+    display: flex;
+    margin: 0 auto;
+    margin-bottom: 20px;
+    width: 1300px;
+    height: 580px;
+    padding: 20px;
+    background-image: url(pic1.jpg);
+    border-radius: 30px;
+
+}
+.welcome-text{
+    text-align: center;
+    margin: 20px 0 50px 0;
+}
+.talha-pic img{
+    margin-top: 50px;
+    width: 40%;
+    box-shadow: 0 0 5px rgba(0, 0, 255, 0.534);
+    border-radius: 10px;
+    
+}
+.talha-details{
+    margin: 100px;
+}
+.welcome-span{
+    font-size: 50px;
+    font-family: 'Merriweather', serif;
+    background-image: linear-gradient(red,green,white);
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.472);
+    padding: 5px;
+}
+.name-talha{
+    font-size:30px;
+    color: rgb(2, 246, 14);
+}
+.p-talha{
+    width: 50%;
+    position: relative;
+    left: 22px;
+    top: 20px;
+    color: white;
+    
+}
+.i-am{
+    color: white;
+    position: relative;
+    top: 20px;
+}
+.sakib-pic img{
+    width: 45%;
+    position: relative;
+    top: 55px;
+    left: 250px;
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.171);
+}
+.sakib-main-div{
+    display: flex;
+    margin: 0 auto;
+    margin-bottom: 20px;
+    width: 1300px;
+    height: 580px;
+    padding: 20px;
+    background-image: url(pic3.jpg);
+    border-radius: 30px;
+
+}
+.juale-pic img{
+    width: 35%;
+    position:relative;
+    top:34px;
+    left:460px;
+    border-radius: 10px;
+    box-shadow: 0 10px 10px rgba(0, 0, 0, 0.685);
+}
+.p-juale{
+    width: 50%;
+    position: relative;
+    right: 30px;
+    top: 20px;
+    color: white;
+      
+}
+.i-am-juale{
+    color: white;
+    position: relative;
+    right: 52px;
+    top: 20px;
+}
+
+.name-juale{
+    font-size:30px;
+    color: rgb(2, 246, 14);
+    position: relative;
+    right: 30px;
+}
+.juale-main-div{
+    display: flex;
+    margin: 0 auto;
+    margin-bottom: 20px;
+    width: 1300px;
+    height: 580px;
+    padding: 20px;
+    background-image: url(pic2.jpg);
+    border-radius: 30px;
+}
+.header{
+    background-image: url(h.jpg);
+    border-radius: 2px;
+    padding: 20px;
+    color: white;
+    display: flex;
+    justify-content:space-around;
+    margin-bottom: 120px;
+}
+.HOME{
+    background-color: black;
+    padding: 15px;
+    font-weight: 900;
+    border-radius: 15px;
+    font-size:20px;
+    border-left: 5px solid;
+
+}
+.HOME:hover{
+    background-color: rgba(255, 192, 203, 0.623);
+}
